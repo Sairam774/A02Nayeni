@@ -1,0 +1,19 @@
+body
+{
+	background-color: white;
+	
+
+}
+footer
+{
+	display: ruby-base;
+	text-align: center;
+	font-size:250%;
+
+}
+table,td
+{
+	color: red;
+border:1px solid black;
+
+}
